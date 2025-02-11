@@ -40,7 +40,7 @@ django-imagekit
 
 django-polymorphic
 
-django-redis-cache==1.0.0
+django-redis-cache==1.8.0
 
 django-snowflake==4.2.3
 
